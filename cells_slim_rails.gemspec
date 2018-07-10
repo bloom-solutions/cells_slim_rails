@@ -6,7 +6,7 @@ require "cells_slim_rails/version"
 Gem::Specification.new do |spec|
   spec.name          = "cells_slim_rails"
   spec.version       = CellsSlimRails::VERSION
-  spec.authors       = ["AJ Villalobos"]
+  spec.authors       = ["AJ Villalobos", "Ramon Tayag"]
   spec.email         = ["aj@bloom.solutions"]
 
   spec.summary       = "Bring back slim defaults to cells-slim"
